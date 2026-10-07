@@ -28,9 +28,24 @@ web que funcionan. Llevo más de quince años dentro de esos procesos: banca, ge
 documental, comercio electrónico. Ahora, además, construyo la herramienta. Defino qué
 hace y decido su arquitectura. Y no doy nada por entregado sin comprobar que funciona.
 
-### Tres productos en producción
+### Cuatro productos en producción
 
 <table>
+<tr>
+<td width="90" align="center">
+  <a href="https://github.com/ablanquez/radiografia">
+    <img src="https://raw.githubusercontent.com/ablanquez/radiografia/main/docs/figma/icono/icono-c.svg" width="70" alt="Icono de RadiografIA">
+  </a>
+</td>
+<td>
+
+**[RadiografIA](https://github.com/ablanquez/radiografia)** · Pon tu texto a contraluz:
+señala los rasgos de estilo que los asistentes de IA dejan más que las personas.
+50 reglas con sus fuentes, 6 géneros calibrados con textos humanos; nada sale del navegador.<br>
+**[▶ En vivo](https://radiografia.antonioblanquez.es)** · Astro 7 · TypeScript · Sin backend
+
+</td>
+</tr>
 <tr>
 <td width="90" align="center">
   <a href="https://github.com/ablanquez/desplazame">
@@ -84,6 +99,7 @@ Dirijo el desarrollo con IA: yo defino el producto, decido la arquitectura y com
 cada entrega; la IA escribe el código. La parte que no se ve también está publicada:
 cada repo lleva su bitácora de fallos reales, con lo que se rompió y lo que daba verde
 mientras tanto —
+**[RadiografIA](https://github.com/ablanquez/radiografia/blob/main/docs/BITACORA.md)** ·
 **[Linaje](https://github.com/ablanquez/linaje/blob/main/docs/BITACORA.md)** ·
 **[ZetaBus](https://github.com/ablanquez/zetabus/blob/main/docs/BITACORA.md)** ·
 **[Desplázame](https://github.com/ablanquez/desplazame/blob/main/docs/BITACORA.md)**.
