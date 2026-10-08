@@ -99,10 +99,10 @@ Dirijo el desarrollo con IA: yo defino el producto, decido la arquitectura y com
 cada entrega; la IA escribe el código. La parte que no se ve también está publicada:
 cada repo lleva su bitácora de fallos reales, con lo que se rompió y lo que daba verde
 mientras tanto —
-**[RadiografIA](https://github.com/ablanquez/radiografia/blob/main/docs/BITACORA.md)** ·
 **[Linaje](https://github.com/ablanquez/linaje/blob/main/docs/BITACORA.md)** ·
 **[ZetaBus](https://github.com/ablanquez/zetabus/blob/main/docs/BITACORA.md)** ·
-**[Desplázame](https://github.com/ablanquez/desplazame/blob/main/docs/BITACORA.md)**.
+**[Desplázame](https://github.com/ablanquez/desplazame/blob/main/docs/BITACORA.md)** .
+**[RadiografIA](https://github.com/ablanquez/radiografia/blob/main/docs/BITACORA.md)**
 
 ### Antes de esto
 
