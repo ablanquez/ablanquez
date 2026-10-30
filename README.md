@@ -1,7 +1,7 @@
 <h1 align="center">Antonio Blánquez Cabeza</h1>
 
 <p align="center">
-  Convierto procesos manuales en aplicaciones web que funcionan.
+  Convierto procesos manuales en aplicaciones web.
 </p>
 
 <p align="center">
@@ -11,22 +11,19 @@
   <a href="mailto:ablanquez@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Escr%C3%ADbeme-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-</p>
-
-<!-- Portafolio (activar cuando esté publicado):
   <a href="https://antonioblanquez.es">
     <img src="https://img.shields.io/badge/Portafolio-antonioblanquez.es-111111?style=flat&logo=about-dot-me&logoColor=white" alt="Portafolio">
   </a>
--->
+</p>
 
 ---
 
 ### Sobre mí
 
-Ayudo a empresas que pierden horas en procesos manuales. Los convierto en aplicaciones
-web que funcionan. Llevo más de quince años dentro de esos procesos: banca, gestión
-documental, comercio electrónico. Ahora, además, construyo la herramienta. Defino qué
-hace y decido su arquitectura. Y no doy nada por entregado sin comprobar que funciona.
+Ayudo a empresas que pierden horas en procesos manuales. Llevo más de quince años dentro
+de esos procesos: banca, gestión documental, comercio electrónico. Ahora, además, construyo
+la herramienta: defino qué hace, la diseño y dirijo a la IA que escribe el código. Y no doy
+nada por entregado sin comprobar que funciona.
 
 ### Cuatro productos en producción
 
@@ -95,7 +92,7 @@ seguridad y exportación completa.<br>
 
 ### Cómo trabajo
 
-Dirijo el desarrollo con IA: yo defino el producto, decido la arquitectura y compruebo
+Dirijo el desarrollo con IA: yo defino el producto, lo diseño y compruebo
 cada entrega; la IA escribe el código. La parte que no se ve también está publicada:
 cada repo lleva su bitácora de fallos reales, con lo que se rompió y lo que daba verde
 mientras tanto —
