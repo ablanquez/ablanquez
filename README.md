@@ -22,8 +22,7 @@
 
 Ayudo a empresas que pierden horas en procesos manuales. Llevo más de quince años dentro
 de esos procesos: banca, gestión documental, comercio electrónico. Ahora, además, construyo
-la herramienta: defino qué hace, la diseño y dirijo a la IA que escribe el código. Y no doy
-nada por entregado sin comprobar que funciona.
+la herramienta: defino qué hace, la diseño y dirijo a la IA que escribe el código.
 
 ### Cuatro productos en producción
 
