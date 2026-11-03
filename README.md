@@ -1,4 +1,4 @@
-<h1 align="center">Antonio Blánquez Cabeza</h1>
+<h1 align="center">Antonio Blánquez</h1>
 
 <p align="center">
   Convierto procesos manuales en aplicaciones web.
@@ -103,7 +103,7 @@ mientras tanto —
 ### Antes de esto
 
 Más de quince años digitalizando y automatizando procesos: validación KYC y control de
-riesgos en banca, gestión documental coordinando equipos de más de cien personas, y
+riesgos en banca, gestión documental coordinando equipos de casi cien personas, y
 comercio electrónico propio. De ahí sale lo que más valor da a mis productos: saber
 definir qué se construye y por qué.
 
